@@ -1,6 +1,6 @@
 **O que é Flutter?**
 
-**Uma ferramenta que permite construir **aplicações nativas cross-platform(iOS, Android)** usando um **único código fonte/linguagem de programação.**
+Uma ferramenta que permite construir **aplicações nativas cross-platform(iOS, Android)** usando um **único código fonte/linguagem de programação.**
 
 **A linguagem de programação por trás do Flutter é o Dart.**
 
