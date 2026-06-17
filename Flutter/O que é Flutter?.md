@@ -6,9 +6,9 @@ Uma ferramenta que permite construir **aplicações nativas cross-platform(iOS, 
 
 **O flutter é formado por:**
 
-- SDK (Software Development Kit) - Ferramentas para compilar seu código para código nativo + desenvolver com facilidade.
+- **SDK (Software Development Kit)** - Ferramentas para compilar seu código para código nativo + desenvolver com facilidade.
 
-- Framework/Widget Library - Componente de UI reutilizáveis (= widgets), funções utilitárias, pacotes.
+- **Framework/Widget Library** - Componente de UI reutilizáveis (= widgets), funções utilitárias, pacotes.
 
 ---
 
