@@ -1,0 +1,15 @@
+﻿# Get started by following one of our iOS quick start guides
+#
+# 1. Follow the iOS guide to configure your project and create the codemagic.yaml file.
+# 2. Save the codemagic.yaml file to the project root folder.
+# 3. Push the added file to the repository.
+# 4. Click the Check for configuration file button in the top right corner.
+#
+# This file contains a minimal Codemagic workflow placeholder.
+workflows:
+  add-first-workflow:
+    name: Add first workflow
+    environment:
+      flutter: stable
+    scripts:
+      - echo "Codemagic workflow placeholder"
