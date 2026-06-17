@@ -1,6 +1,4 @@
-## 🧠 O que estou aprendendo com este projeto?
-
-Construir este aplicativo na prática está me permitindo dominar os seguintes pilares do Flutter e do desenvolvimento mobile:
+## 🧠 O que estou aprendendo com o estudo de Flutter?
 
 ### 1. Fundamentos do Framework & Dart
 * **Manipulação de Estados:** Compreender a diferença prática e o ciclo de vida de `StatelessWidget` e `StatefulWidget`.
